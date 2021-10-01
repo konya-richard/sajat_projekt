@@ -1,6 +1,6 @@
 <template>
     <div>
-      Valami2
+      Valami23
     </div>
 </template>
 
